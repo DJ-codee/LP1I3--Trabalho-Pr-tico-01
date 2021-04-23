@@ -26,7 +26,7 @@ dólares. Calcular e exibir o valor correspondente em Reais (R$).
         System.out.println("digite o valor em dólar:");
         dolar = input.nextDouble();
         
-        real= dolar * 5.50
+        real= dolar * 5.50;
         System.out.println("valor em Reais:" +  real);
         
 }

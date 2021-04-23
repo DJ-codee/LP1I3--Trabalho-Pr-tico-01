@@ -27,5 +27,5 @@ public class TP0Ex02 {
         altura = input.nextDouble();
         area = base * altura ;
         System.out.print("a área do quadrado é:" + area);
-    
+    }
 }
